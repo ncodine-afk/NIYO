@@ -1,12 +1,12 @@
 # Hugo template for Decap CMS with Netlify Identity
 
-This is a small business template built with [Hugo](https://gohugo.io) and [Decap CMS](https://github.com/decaporg/decap-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
+This is a small business template built with [lovable ai](https://lovable.dev/projects/544da975-8239-4309-9bdc-9e077f3fe676) and [Decap CMS](https://github.com/decaporg/decap-cms), designed and developed by Niyonkuru](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/decaporg/one-click-hugo-cms&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/decaporg/one-click-lovable-cms&stack=cms)
 
 This will setup everything needed for running the CMS:
 
@@ -50,5 +50,4 @@ Make sure you use consistent icons in terms of viewport and art direction for op
 For an icon named `icons-facebook.svg`, refer to the SVG `social-icon` partial like so:
 
 ```
-{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook" "alt" "Kaldi on Facebook") }}
 ```
